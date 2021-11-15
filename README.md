@@ -6,6 +6,8 @@ Lucas Hillert Jiménez 1ºASIR "A"
 >Con el método .insertMany() para crear la base de datos
 
 >Con enunciados que se resuelvan con métodos find.()
+
+>Con nuevas consultas
 * También crearemos una carpeta **"doc"** donde se encontrará un pdf con la explicación de los siguientes puntos
 >Introducción
 

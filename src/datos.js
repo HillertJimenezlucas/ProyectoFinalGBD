@@ -1,6 +1,5 @@
 /* Empezamos usando el comando db."collection".drop() para borrar la colección y todos los documentos dentro de 
-la colección, por si después realizamos cambios en ella para que nos borre los datos desactualizados y nos
-introduzca los cambios que hagamos */
+la colección, por si después realizamos cambios en ella para que nos borre los datos desactualizados y podamos introducir después los cambios que hagamos con el insert. */
 db.camaras.drop()
 /* Ahora comenzamos a introudicr datos a nuestra colección que se llama "camaras" sobre las cámaras
 de las que vamos a consultar información concreta después */
